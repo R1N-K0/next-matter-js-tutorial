@@ -4,31 +4,32 @@ Next.js と Matter.js を使った、ごく基本的な物理演算のサンプ�
 
 ## 動かし方
 
-1.  **クローンして移動:**
+1. **クローンして移動:**
     ```bash
-    git clone [https://github.com/R1N-K0/next-matter-js-tutorial.git](https://github.com/R1N-K0/next-matter-js-tutorial.git)
+    git clone https://github.com/R1N-K0/next-matter-js-tutorial.git
     cd next-matter-js-tutorial
     ```
 
-2.  **インストール:**
+2. **インストール:**
     ```bash
     npm install
     # または
-    # yarn install
+    yarn install
     ```
 
-3.  **実行:**
+3. **実行:**
     ```bash
     npm run dev
     # または
-    # yarn dev
+    yarn dev
     ```
 
-4.  ブラウザで [http://localhost:3000](http://localhost:3000) を開きます。
+4. ブラウザで [http://localhost:3000](http://localhost:3000) を開きます。
 
 ## 使っているもの
 
-* Next.js
-* Matter.js
+- **Next.js** - React ベースのフレームワークで、SSR/静的生成に対応
+- **Matter.js** - 2D 物理エンジン（剛体、重力、衝突など）
 
 ---
+
